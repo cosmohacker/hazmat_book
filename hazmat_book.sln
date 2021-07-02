@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazmat_book", "hazmat_book\hazmat_book.csproj", "{308907DC-F547-4E56-9E2F-2CEEED7B3B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308907DC-F547-4E56-9E2F-2CEEED7B3B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308907DC-F547-4E56-9E2F-2CEEED7B3B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308907DC-F547-4E56-9E2F-2CEEED7B3B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308907DC-F547-4E56-9E2F-2CEEED7B3B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD485C0-D618-43E6-8101-371B6A100AE1}
+	EndGlobalSection
+EndGlobal
